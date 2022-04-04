@@ -1,0 +1,204 @@
+*{margin:0;
+padding: 0;
+list-style-type: none;
+text-decoration: none;}
+.header, .menu ul, .logo, .hero, .boomerang, .series, .glopseries, .an_nft, .last, footer .right, .exclusive, .copyright {
+    display: flex;
+    justify-content: space-between;
+}
+.header, .boomerang, .series, .le_super, .initial, .initial_2, .an_nft, .last, footer{margin-left:50px;
+    margin-right:50px;}
+.logo{
+    width:150px;
+    margin-bottom: 20px;
+}
+.menu ul{
+    width: 310px;
+}
+.menu ul li a, .hero .launching p, .free p, .le_super p, .initial p{
+    color: #555555;
+    font-size: 21px;
+}
+.gloop h4{
+    color: #FF8139;
+    
+}
+.topbid h4, .gloop p, .topbid p footer{
+    color: #777777;
+}
+.menu ul li .pink a, .pink , .check {
+    color: #FF3998;
+}
+.hero, .free , .last{
+    padding: 50px;
+}
+.launching{
+    width: 500px;
+    padding-top: 140px;
+}
+.launching h1{
+    font-size:80px;
+    margin: 57px 0px;
+}
+.launching span{
+    border: 4px solid #FF8139;
+    border-radius: 30px;
+    padding: 10px 30px;
+    position: relative;
+    top: 40px;
+    font-size: 25px;
+}
+.free{
+    margin: 50px;
+    border: 1px solid transparent;
+    background-image: linear-gradient(to right,#FF3998  0%, #FF3939 100%,#FF8139 0%,#39FFA0 0%); 
+
+    padding-bottom: 80px;
+    border-radius: 20px;
+}
+.free .purple{
+    position:absolute;
+    top: 890px;
+    left: 856px;
+}
+.free h2, .an_nft h1{
+    font-size: 40px;
+    margin: 30px 0px;
+}
+.free p, .an_nft p{color: #111;
+margin: 20px 0px;
+line-height: 32px;
+word-spacing: 3px;}
+.boomerang{
+    margin: 140px 50px;
+}
+.topbid{
+    text-align: right;
+}
+
+.glopseries{
+    line-height: 30px;
+    padding: 15px;
+} 
+.series{margin-top: 70px;
+margin-bottom: 200px;}
+.series .pic, .pic{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background-color: #EEEEEE;
+}
+.le_super h2, .initial h2{
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+.red_img{
+    position: absolute;
+    top: 2558px;
+    left: 815px;
+}
+.eclipse{
+    position: absolute;
+    top: 2477px;
+    left: 629px;
+} 
+.initial_img1, .initial_2, .initial_2 .eclipse2 .initial_img2{
+    border-radius: 20px;
+}
+.gloop_man{
+    position: absolute;
+    top: 2850px;
+    left: 1210px;
+    line-height: 20px;
+}
+.initial {
+    border: 1px solid transparent;
+    padding: 144px 60px;
+    border-radius: 20px;
+}
+.initial_1{
+    background-color: #FFF0E8;
+}
+.initial_content{
+    width: 500px;
+}
+.initial_content p{
+    margin: 20px 0px;
+}
+.check{display: flex;}
+.check img{
+    position: relative;
+    top: 3px;
+    left: 8px;
+}
+.initial_2 .days2{
+    width: 351px;
+     position:absolute;
+    top:3355px ;
+    left: 250px;  
+    z-index: 1;
+} 
+.initial_rel2{
+    position: relative;
+    left: 680px; 
+}
+.initial_2{
+    border: 1px solid transparent;
+    background-color: #EDFFF6;
+    margin: 200px 60px;
+}
+.initial_2 .eclipse2 .initial_img2{
+    position: absolute;
+    left: 60px;
+    top: 3263px;
+}
+
+.other{width: 550px;  
+    border: 2px solid transparent;
+padding: 80px 50px;
+border-radius: 20px;
+background-color: #EEEEEE;}
+.an_nft h1{font-size:50px;}
+.an_nft p{color: #555555;
+font-size: x-large;} 
+
+.launching_2{
+    position:absolute;
+    top: 4790px;
+}
+.last{
+    border: 2px solid transparent;
+    border-radius: 20px;
+    margin-bottom: 200px;
+    background-color: #EEEEEE;
+    margin: 200px 50px;
+    
+}
+.green_girl{
+    position: relative;
+    top: 56px;
+    left: 65px;
+   
+}
+.exclusive{
+    line-height: 28px;
+}
+.right{
+    width: 800px;
+}
+.right ul li h3{
+    margin-bottom: 20px;
+}
+.copyright{
+    margin: 50px 0px;
+}
+.social_media, .header, .menu{margin-top: 10px;}
+
+
+
+
+
+
+
+
+
+
