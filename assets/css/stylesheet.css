@@ -17,13 +17,13 @@ text-decoration: none;}
 }
 .menu ul li a, .hero .launching p, .free p, .le_super p, .initial p{
     color: #555555;
-    font-size: 21px;
+    font-size: 1.5em;
 }
 .gloop h4{
     color: #FF8139;
     
 }
-.topbid h4, .gloop p, .topbid p footer{
+.topbid h4, .gloop p, .topbid p footer, .right ul li a{
     color: #777777;
 }
 .menu ul li .pink a, .pink , .check {
@@ -37,7 +37,7 @@ text-decoration: none;}
     padding-top: 140px;
 }
 .launching h1{
-    font-size:80px;
+    font-size:5rem;
     margin: 57px 0px;
 }
 .launching span{
@@ -62,7 +62,7 @@ text-decoration: none;}
     left: 856px;
 }
 .free h2, .an_nft h1{
-    font-size: 40px;
+    font-size: 3rem;
     margin: 30px 0px;
 }
 .free p, .an_nft p{color: #111;
@@ -93,12 +93,12 @@ margin-bottom: 200px;}
 }
 .red_img{
     position: absolute;
-    top: 2558px;
+    top: 2588px;
     left: 815px;
 }
 .eclipse{
     position: absolute;
-    top: 2477px;
+    top: 2507px;
     left: 629px;
 } 
 .initial_img1, .initial_2, .initial_2 .eclipse2 .initial_img2{
@@ -133,7 +133,7 @@ margin-bottom: 200px;}
 .initial_2 .days2{
     width: 351px;
      position:absolute;
-    top:3355px ;
+    top:3378px ;
     left: 250px;  
     z-index: 1;
 } 
@@ -149,7 +149,7 @@ margin-bottom: 200px;}
 .initial_2 .eclipse2 .initial_img2{
     position: absolute;
     left: 60px;
-    top: 3263px;
+    top: 3307px;
 }
 
 .other{width: 550px;  
